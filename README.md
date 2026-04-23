@@ -1,2 +1,3 @@
-# profilecoder-test-run-2
-ProfileCoder test run — populated target, safe to delete
+# mathlib
+
+Tiny arithmetic helpers — placeholder.
